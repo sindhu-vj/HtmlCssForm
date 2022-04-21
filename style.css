@@ -1,0 +1,21 @@
+
+input[type=submit] {
+    width: 250px;  
+    height: 20px;
+    margin: 20px 0 20px 0;
+ }
+ form {
+     text-align: center;
+     padding: 20px 20px 20px 20px; 
+     font-family:'Oswald', sans-serif ;  
+ }
+ input {
+     margin-bottom: 10px;
+ }
+ .box {
+    width: 250px;
+    height: 250px;
+    margin: 200px auto;
+    border: 1px solid black
+}
+  
